@@ -1,7 +1,7 @@
 # KOOLING - README
 Project for IN2000 at University of Oslo spring 2023
 
-Contributors: andessol, omarhaw, aishari, ahbakken, georgiyd, agonk
+Contributors: andessol, omarhaw, aishari, ahbakken, georgiyd
 
 Kooling runs on all Android mobile phones with API 25 (Android Oreo) or higher
 
