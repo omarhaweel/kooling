@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2022 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">Kooling</string>
+    <string name="tilbake_til_kart">Kart</string>
+    <string name="plasseringer">"Vindmøller i området"</string>
+    <string name="plasseringsTid">"Plasseringstid: "</string>
+    <string name="turbin_id">"Vindmølle"</string>
+    <string name="tilbake_til_fylker">Fylker</string>
+    <string name="ingen_plasserte_vindmoller">Ingen plasserte vindmøller her</string>
+    <string name="fjern_turbiner">Fjern vindmøller</string>
+    <string name="vil_du_fjerne_alle">Vil du fjerne alle vindmøller fra område?</string>
+    <string name="ja">Ja</string>
+    <string name="nei">Nei</string>
+    <string name="turbiner_ved_stasjon">"Antall vindmøller"</string>
+    <string name="energi">Produsert energi</string>
+    <string name="ungatt_co2">Unngått CO2 utslipp</string>
+    <string name="spart_olje">Spart olje</string>
+    <string name="fat">Fat</string>
+    <string name="opptjent_sum">Pris</string>
+    <string name="kr">kr</string>
+    <string name="plasserte_turbiner">Plasserte vindmøller</string>
+    <string name="fylke">Fylke</string>
+    <string name="landskap">Landskap</string>
+    <string name="legg_til_turbin">Legg til vindmølle</string>
+    <string name="fjern_turbin">Fjern vindmølle</string>
+    <string name="instillinger">Innstillinger</string>
+    <string name="mork_modus">Mørk modus</string>
+    <string name="overstyr_systemet">Overstyr mobilens tema</string>
+    <string name="kwh">kWh</string>
+    <string name="kg">kg</string>
+    <string name="reset">Tilbakestill applikasjon</string>
+    <string name="tilbakestilling_beskrivelse">Alle vindmøller vil bli slettet fra appen.</string>
+    <string name="tilbakestilling_tittel">Tilbakestill vindmøller?</string>
+    <string name="dummystate_tittel">Laste inn testvindmøller?</string>
+    <string name="dummystate_beskrivelse">Dette vil laste inn testvindmøller inn i appen, slik at man kan teste appen. I tillegg, så vil eksisterende vindmøller også tilbakestilles.</string>
+    <string name="dummy">Laste inn testvindmøller</string>
+    <string name="vindmoller">Vindmøller</string>
+    <string name="vindmoller_i">Vindmøller i</string>
+    <string name="statistikk_for_norge">Statistikk for Norge</string>
+
+</resources>
